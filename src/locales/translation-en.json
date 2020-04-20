@@ -547,5 +547,8 @@
 			"hashtag": "hashtag",
 			"getCode": "get code"
 		}
+	},
+	"dialogWindow": {
+		"message": "Are you sure to go away? All changes will be lost"
 	}
 }
